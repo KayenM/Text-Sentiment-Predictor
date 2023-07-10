@@ -1,15 +1,10 @@
 <h1 align="center">
-  <img src="https://your-image-url.com" alt="FeelText">
   <br>
   FeelText 🌟
 </h1>
 
 <p align="center">
   <b>Welcome to FeelText, the ultimate text sentiment analyzer! 😄</b>
-</p>
-
-<p align="center">
-  <img src="https://your-demo-image-url.com" alt="FeelText Demo">
 </p>
 
 <h2 align="center">Table of Contents</h2>
@@ -20,7 +15,7 @@
   <a href="#demo">Demo</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#getting-started">Getting Started</a> •
-  <a href="#contributing">Contributing</a> •
+  <a href="#contributing">Contributing</a>
 </p>
 
 <h2 id="about">About</h2>
@@ -67,7 +62,7 @@
 
 <p align="center">
   <a href="https://text-sentiment-predictor.streamlit.app/">
-    <img src="https://your-demo-image-url.com" alt="FeelText Demo">
+  <img src="https://raw.githubusercontent.com/KayenM/Text-Sentiment-Predictor/main/readme_images/readme_img.jpg" alt="FeelText">
   </a>
 </p>
 
@@ -78,7 +73,7 @@
 </p>
 
 <p align="center">
-  <b>Python</b> • <b>Scikit-learn</b> • <b>Streamlit</b> • <b>Bag of Words</b>
+  <b>Python</b> • <b>Scikit-learn</b> • <b>SVM Algorithm</b> • <b>Bag of Words Vectorization • <b>Streamlit</b></b>
 </p>
 
 <h2 id="getting-started">Getting Started</h2>
@@ -96,7 +91,7 @@
 </ol>
 
 <p align="center">
-  That's it! You're all set to explore the magnificent world of FeelText on your local machine.
+  That's it! You're all set to explore FeelText on your local machine.
 </p>
 
 <h2 id="contributing">Contributing</h2>
@@ -108,7 +103,7 @@
 <hr>
 
 <p align="center">
-  We hope FeelText brings joy and clarity to your text analysis journey. ✨📝 Feel free to explore, analyze, and unlock the sentiments of the texts that matter to you! If you have any questions or need assistance, don't hesitate to reach out.
+  I hope you enjoy using the app! If you have any questions or need assistance, don't hesitate to reach out.
 </p>
 
 <p align="center">
