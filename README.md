@@ -57,7 +57,7 @@
 <h2 id="demo">Demo</h2>
 
 <p align="center">
-  You can access the live demo of FeelText [here](https://text-sentiment-predictor.streamlit.app/). Go ahead, try it out, and uncover the emotional sentiments hidden within your text!
+  You can access the live demo of FeelText <a href="https://text-sentiment-predictor.streamlit.app/">here</a>. Go ahead, try it out, and uncover the emotional sentiments hidden within your text!
 </p>
 
 <p align="center">
