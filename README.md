@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="#about">About</a> •
+  <a href="#video-demo">Video Demo</a> •
   <a href="#features">Features</a> •
   <a href="#demo">Demo</a> •
   <a href="#tech-stack">Tech Stack</a> •
@@ -29,7 +30,14 @@
 </p>
 
 <p align="center">
-  So, are you ready to dive into the marvelous world of FeelText? Let's get started!
+  So, are you ready to dive into the marvellous world of FeelText? Let's get started!
+</p>
+
+<h2 id="video-demo">🎥 Video Demo</h2>
+<p align="center">
+  <a href="https://youtu.be/oRlujfnRg2E">
+    <img src="https://img.youtube.com/vi/oRlujfnRg2E/0.jpg" alt="Demo Video">
+  </a>
 </p>
 
 <h2 id="features">Features</h2>
