@@ -40,6 +40,7 @@ class ReviewContainer:
     def get_sentiment(self):
         return [x.sentiment for x in self.reviews]
 
+    # Balance out number of positive and negative reviews for training data
     def evenly_distribute(self):
         negative = list(filter(lambda x: x.sentiment == Sentiment.NEGATIVE, self.reviews))
 
