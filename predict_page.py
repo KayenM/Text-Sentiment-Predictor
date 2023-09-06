@@ -93,6 +93,7 @@ def load_model():
         data = pickle.load(file)
     return data
 
+# Load trained SVM model from pickle
 data = load_model()
 
 
@@ -107,6 +108,8 @@ def show_predict_page():
 
     if ok:
         vect = vectorizer.transform([text_predict])
+
+       # Pass in vectorized input and use SVM loaded model to predict result
         result = data.predict(vect)
         st.subheader(f"The predicted sentiment of the text is {result[0]}")
 
