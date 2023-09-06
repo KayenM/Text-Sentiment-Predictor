@@ -3,6 +3,8 @@ import pickle
 
 import json
 import random
+
+# Bag of Words Vectorizor
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
@@ -72,6 +74,7 @@ test_container = ReviewContainer(test)
 
 train_container.evenly_distribute()
 
+# For training, x is text, y is reviews
 train_x = train_container.get_text()
 train_y = train_container.get_sentiment()
 
@@ -80,8 +83,8 @@ test_container.evenly_distribute()
 test_x = test_container.get_text()
 test_y = test_container.get_sentiment()
 
+# Train and fit data into bag of words vectorizer, output BOW matrix
 vectorizer = TfidfVectorizer()
-
 train_x_vectors = vectorizer.fit_transform(train_x)
 
 
