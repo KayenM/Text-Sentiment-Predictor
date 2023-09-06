@@ -1,7 +1,7 @@
 import json
 import random
 
-
+#Samples 1000 reviews from a dataset of 10000
 data = []
 file_name = 'Books'
 with open(f'./data/{file_name}.json') as f:
